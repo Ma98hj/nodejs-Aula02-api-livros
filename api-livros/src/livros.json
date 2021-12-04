@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "titulo": "O morro dos ventos uivantes",
+        "decricao": "foi o único romance da escritora britânica Emily Brontë. Hoje considerado um clássico da literatura inglesa, recebeu fortes críticas no século XIX.",
+        "autor": "Emily Brontë",
+        "anoPublicacao": "1847"
+    },
+    {
+        "id": 2,
+        "titulo": "A culpa é das estrelas",
+        "decricao": " Trata-se de um sucesso que ganhou as telas de cinema e emocionou o mundo com uma história romântica, leve e, ao mesmo tempo, profunda.",
+        "autor": "John Green",
+        "anoPublicacao": "2012" 
+    },
+    {
+        "id": 3,
+        "titulo": "Cidades de papel",
+        "decricao": " é o terceiro romance escrito por John Green.  O romance explora a vinda de idade e de busca do protagonista.",
+        "autor": "John Green",
+        "anoPublicacao": "2008" 
+    }
+
+]
